@@ -6,7 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
 		features = {
 				
-				//chakrapani
+				//chakrapani-peddi
 				"C:\\Users\\peddi.chakrapani\\Eclipse-new\\DemoWebShop\\src\\test\\resources\\Community_poll.feature",
 			
 		},
